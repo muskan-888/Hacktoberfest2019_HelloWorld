@@ -1,6 +1,6 @@
 # Welcome to HacktoberFest 2019!
 ###  An easy way to get your 5 pull requests for Hacktoberfest ! 
-This Repo is solely built for HacktoberFest 2019 !! Just make a pull request and it will be merged with in minutes ...
+This Repo is solely built for HacktoberFest 2019 !! Just make a pull request and it will be merged within minutes ...
 
 * Follow these steps to make your first pull request-
 
