@@ -14,7 +14,7 @@ git commit -m "your name"
 git push origin master
 ```
 5. Then create your pull request.
-6. Star this [repository](https://github.com/aryasoni98/Hacktoberfest2019).
+6. Star this [repository](https://github.com/aryasoni98/Hacktoberfest2019_HelloWorld).
 7. Congratulations!! You have successfully created your pull request.
 8. Check your progress here (https://hacktoberfest.digitalocean.com/profile)
 9. Wait for your shirt.
